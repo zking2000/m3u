@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="30ARidiculousTV.us" tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" group-title="Comedy",30A Ridiculous TV (720p)
-https://30a-tv.com/feeds/720p/63.m3u8
 #EXTINF:-1 tvg-id="981PearlFM.sx" tvg-logo="https://i.imgur.com/GY750xh.jpg" group-title="Music",98.1 Pearl FM (720p)
 https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
 #EXTINF:-1 tvg-id="ABNAfrica.us" tvg-logo="https://yt3.googleusercontent.com/BhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ=s512-c-k-c0x00ffffff-no-rj" group-title="Religious",ABN Africa (480p)
@@ -25,6 +23,8 @@ http://streamfi-alphadgtl1.zettawiseroutes.com:8080/hls/stream_src.m3u8
 http://66.242.170.53/hls/live/temp/index.m3u8
 #EXTINF:-1 tvg-id="AtomicTV.ro" tvg-logo="https://i.imgur.com/O4uI0Uy.png" group-title="Music",Atomic TV (360p)
 https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 tvg-id="aurLifeHD.pk" tvg-logo="https://i.imgur.com/GfWLn3O.jpg" group-title="General",aurLife HD (614p)
+http://124.109.47.101/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="AVAFamily.ir" tvg-logo="https://i.imgur.com/QwBGLzK.png" group-title="Movies",AVA Family (720p) [Not 24/7]
 https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AXSTVNOW.us" tvg-logo="https://i.imgur.com/lYa793q.png" group-title="Documentary",AXS TV NOW
@@ -65,8 +65,6 @@ https://panel.freedomflixtv.org:3934/hybrid/play.m3u8
 https://panel.freedomflixtv.org:3665/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="FreedomMovieSphere.ug" tvg-logo="https://i.imgur.com/jEyrlPp.jpg" group-title="Movies",Freedom Movie Sphere (720p)
 https://panel.freedomflixtv.org:3311/stream/play.m3u8
-#EXTINF:-1 tvg-id="FUELTV.at" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Sports",FUEL TV (1080p)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
 #EXTINF:-1 tvg-id="FX2.fr" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-2-fr.png" group-title="Entertainment",FX2 Farsi
 https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GBSTV.ke" tvg-logo="https://i.imgur.com/2AP1xVg.png" group-title="General",GBS TV (720p) [Not 24/7]
@@ -121,14 +119,16 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_
 https://s3-us-west-2.amazonaws.com/newington.castus-vod/live/ch1/video.m3u8
 #EXTINF:-1 tvg-id="NCTVChannel16.us" tvg-logo="https://i.imgur.com/vquPm9I.png" group-title="Legislative",Newington Community Television Channel 16 (Newington CT) (720p)
 https://s3-us-west-2.amazonaws.com/newington.castus-vod/live/ch2/video.m3u8
+#EXTINF:-1 tvg-id="NjataTV.ke" tvg-logo="https://i.imgur.com/246CBAW.png" group-title="Undefined",Njata TV (576p) [Not 24/7]
+https://goliveafrica.media:9998/live/625816e585a2b/index.m3u8
 #EXTINF:-1 tvg-id="PamirTV.ca" tvg-logo="https://i.imgur.com/sCBbBOj.png" group-title="Culture;Music",Pamir TV (1080p) [Not 24/7]
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="PardesiTV.ca" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="Undefined",Pardesi TV (720p)
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PHXTV.us" tvg-logo="https://i.imgur.com/RkTKR6x.png" group-title="Legislative",PHXTV
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_002/chunklist.m3u8
-#EXTINF:-1 tvg-id="POPWorldTV.es" tvg-logo="https://i.imgur.com/LQB6G3s.jpg" group-title="Music",POP World TV (720p)
-https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+#EXTINF:-1 tvg-id="PrudentMedia.in" tvg-logo="https://i.imgur.com/DG0x4UD.png" group-title="News",Prudent Media (1080p)
+https://prudentmcdn.rixcast.com/prudentm.m3u8
 #EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="Sports",Racing.com (720p)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:-1 tvg-id="RestTV.ug" tvg-logo="https://i.imgur.com/WvEQsND.png" group-title="Religious",Rest TV (360p)
@@ -155,8 +155,6 @@ https://panel.freedomflixtv.org:3900/hybrid/play.m3u8
 https://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 #EXTINF:-1 tvg-id="TV1Samoa.ws" tvg-logo="https://i.imgur.com/GBYK36W.png" group-title="General",TV1 Samoa (720p)
 https://anystrument.com:5443/LiveApp/streams/DfywyaY3DcWf1709948634332.m3u8
-#EXTINF:-1 tvg-id="TV3.gh" tvg-logo="https://i.imgur.com/8t967Hq.png" group-title="Undefined",TV3 (720p) [Not 24/7]
-https://live.mediageneral.digital/live/livestream.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-logo="https://i.imgur.com/iuoXchN.png" group-title="Religious",TV Pai Eterno (480p)
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVCARiB.sx" tvg-logo="https://i.imgur.com/fvGlwKo.png" group-title="Entertainment",TVCARiB (720p) [Not 24/7]
@@ -169,6 +167,8 @@ https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="WLMB.us" tvg-logo="https://i.imgur.com/KeELZ1Y.png" group-title="Religious",WLMB
 https://hls-live-media.cdn01.net/default/stream_10327.m3u8?source=othersites
+#EXTINF:-1 tvg-id="XPTV1.es" tvg-logo="https://i.imgur.com/Ty7GkoN.png" group-title="Music",XPTV1 (720p)
+https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 #EXTINF:-1 tvg-id="XPTV2.es" tvg-logo="https://i.imgur.com/74Z8ATB.png" group-title="Entertainment",XPTV2 (720p)
 https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
 #EXTINF:-1 tvg-id="XPTVUS.es" tvg-logo="https://i.imgur.com/1m7kDmc.png" group-title="Series",XPTV US (720p)
